@@ -3,6 +3,6 @@ services:
   encrypt-information:
    build: ../encrypt-information
    ports:
-     - 4004
+     - 4003
 
   
